@@ -18,9 +18,7 @@ if jq -r '.[] | select(.tag_name=="0.1") | .assets[].name' $asset_json | grep -G
 else
     echo "Jai ho. We got sign"
     chmod +x $base_dir/dist_handler_sign.sh
-    if $base_dir/dist_handler_sign.sh;then
-        $base_dir/remote_handler.sh
-    fi
+    $base_dir/dist_handler_sign.sh
 fi 
 
 
