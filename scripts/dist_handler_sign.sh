@@ -17,7 +17,16 @@ Codename="dvc-packages"
 Architectures="aarch64 arm i686 x86_64"
 Components=$(for i in "${components_array[@]}";do echo -n "$i ";done)
 Description="Dichvucoder packages"
-
+commit() {
+    pushd $(dirname $BASE_DIR)
+    echo "pushing changes"
+    if [[ $(git status --porcelain) ]]; then
+        git add .
+        git commit -m "Updated $list_updated_packages"
+        git push
+        remove_archive_from_temp_gh
+    fi
+}
 create_dist_structure() {
     echo "Creating dist structure"
     # remove all files and dir in dists.
@@ -138,3 +147,4 @@ create_dist_structure
 create_packages
 generate_release_file
 sign_release_file
+commit
