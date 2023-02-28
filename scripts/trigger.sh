@@ -17,7 +17,7 @@ if jq -r '.[] | select(.tag_name=="0.1") | .assets[].name' $asset_json | grep -G
     fi
 else
     echo "Jai ho. We got sign"
-    $base_dir/dist_handler.sh
+    $base_dir/dist_handler_sign.sh
 fi 
 
 
