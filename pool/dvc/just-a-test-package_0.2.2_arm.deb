@@ -1,0 +1,13 @@
+Package: just-a-test-package
+Version: 0.2.2
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 44
+Filename: pool/dvc/just-a-test-package_0.2.2_arm.deb
+Size: 2032
+MD5sum: ec3ab19a7bff04f1a0b410287b879771
+SHA1: 7dad6d1578287e236f4d829db4074c8b5c035ed2
+SHA256: 2d92da93a6a1f1dcc2fcfe9a056bd8baf57a473a952b2dd29dc6f4cc581110b8
+Homepage: https://github.com/Dichvucoder-company/dvc-packages
+Description: Dummy test for dvc packages
+

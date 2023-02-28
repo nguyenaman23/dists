@@ -1,0 +1,13 @@
+Package: just-a-test-package
+Version: 0.2.2
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 44
+Filename: pool/dvc/just-a-test-package_0.2.2_i686.deb
+Size: 2164
+MD5sum: 9641bbb3984f1ba2b649dc639bb5eb27
+SHA1: cc7d63a8e852a374b8c0cf35511ed8ef49b9c720
+SHA256: c2902aa0e94fce04202e7aed209386bab32e5f91b0fd849e0ff7c8fd29d6f1a5
+Homepage: https://github.com/Dichvucoder-company/dvc-packages
+Description: Dummy test for dvc packages
+
