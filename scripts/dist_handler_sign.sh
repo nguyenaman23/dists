@@ -17,6 +17,21 @@ Codename="dvc-packages"
 Architectures="aarch64 arm i686 x86_64"
 Components=$(for i in "${components_array[@]}";do echo -n "$i ";done)
 Description="Dichvucoder packages"
+remove_archive_from_temp_gh() {
+    echo "removing temporay archives"
+    # remove only which has download. it wont take gurantee of succesfully processed. if some archives
+    # not processed successfully. then most probably issues with archive itself.
+    # However repository consistency checker will catch any unsuccesful checks.
+    cd $BASE_DIR
+    for temp in ./*.tar;do
+        if gh release delete-asset -R github.com/$owner/dvc-packages $tag "$(basename $temp)" -y;then
+
+            echo "$temp removed!!"
+        else
+            echo "Error while removing $temp"
+        fi
+    done
+}
 commit() {
     pushd $(dirname $BASE_DIR)
     echo "pushing changes"
