@@ -1,0 +1,14 @@
+Package: php7.2-zts-dichvucoder
+Version: 9.0.1-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 428
+Depends: libandroid-execinfo, php7.2-zts
+Filename: pool/dvc/php7.2-zts-dichvucoder_9.0.1-2_x86_64.deb
+Size: 122396
+MD5sum: a66b4745e90c5e00f291ea124ba961b7
+SHA1: 482e653d111ef7f0d128df8127b06e58e48b3315
+SHA256: dbcbe728479b3a885ef3e227e1dffd8ed04d92348a2e98a4b2b5d058713c0dd6
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
+

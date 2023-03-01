@@ -5,9 +5,9 @@ Maintainer: @Dichvucoder
 Installed-Size: 48
 Filename: pool/dvc/just-a-test-package_0.2.2_aarch64.deb
 Size: 2152
-MD5sum: f79141f93793ea055d5eebea8b6b0b06
-SHA1: 9fee9c124a727c1745a47eed8c1d771e18ca350f
-SHA256: 88c41d2667df2ef6144c59c71823d984f75f4200fe001641c663078fe1c79a9a
+MD5sum: bfb37779a61dcde53e08bcd73289b10d
+SHA1: d148def3a7c667032ac008af5c683c80fed664b1
+SHA256: 877b9b52f99efff3bc39670afc66635461454f8e1474bbb17329a05baede094c
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 
@@ -374,6 +374,20 @@ SHA256: 9e6b0d8d897e26f61c10408a3c0a098d0414dfe409c0db33c576fa9fc0f8ef7e
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
+Package: php7.2-dichvucoder
+Version: 9.0.1-2
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 376
+Depends: libandroid-execinfo, php7.2
+Filename: pool/dvc/php7.2-dichvucoder_9.0.1-2_aarch64.deb
+Size: 114532
+MD5sum: c9ea9f9d125ce17532bf88f11df75553
+SHA1: a9ce94b4c8a22b0f2e83b5d1b36592afcba4d4fc
+SHA256: f46cd483cb7fc82ecd8f0205d10e7227b9eb3817b5f194fd506eb0b9be85664d
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
+
 Package: php7.2-threads
 Version: 7.2.34
 Architecture: aarch64
@@ -389,6 +403,20 @@ SHA1: ca8464a423f4a5b9280afa72426f9fcd66ce8486
 SHA256: 94f8c4feffb4d4d5f470ee0832631c17957612dda9fe7c8f1d0b1db0395c2869
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
+
+Package: php7.2-zts-dichvucoder
+Version: 9.0.1-2
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 376
+Depends: libandroid-execinfo, php7.2-zts
+Filename: pool/dvc/php7.2-zts-dichvucoder_9.0.1-2_aarch64.deb
+Size: 114376
+MD5sum: 154f52ab6fee729428d9af5e1aca4053
+SHA1: bd2a16d13015661862039f5ed5e9acca72a16e72
+SHA256: 6178d6538e902aec4241e62206c27dd7c61009153201ea935d50a0fe03ba7eeb
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php7.2-zts-threads
 Version: 3.2.0-git-0

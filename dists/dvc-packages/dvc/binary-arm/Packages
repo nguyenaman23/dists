@@ -5,9 +5,9 @@ Maintainer: @Dichvucoder
 Installed-Size: 44
 Filename: pool/dvc/just-a-test-package_0.2.2_arm.deb
 Size: 2032
-MD5sum: ec3ab19a7bff04f1a0b410287b879771
-SHA1: 7dad6d1578287e236f4d829db4074c8b5c035ed2
-SHA256: 2d92da93a6a1f1dcc2fcfe9a056bd8baf57a473a952b2dd29dc6f4cc581110b8
+MD5sum: 375712f0924c40dcf117263b0fdb43dd
+SHA1: 8e67ea1cb5f70c98c7a27005c7aa837bf164e5bb
+SHA256: a68a5265763183c8857dc3f14ff7bb7c0ee71b0bf6f5dabcb1c60ea249f4fddf
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 
@@ -374,6 +374,20 @@ SHA256: 08ac9de40dd41bbbdb64fcde024ecf7d4163012eb2277a335bc0d483d4c810ba
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
+Package: php7.2-dichvucoder
+Version: 9.0.1-2
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 300
+Depends: libandroid-execinfo, php7.2
+Filename: pool/dvc/php7.2-dichvucoder_9.0.1-2_arm.deb
+Size: 101324
+MD5sum: 113624f3d733bfc037f8ac7f85470b91
+SHA1: 5f281dc8806164862bcf86a9bf24c638ae186442
+SHA256: 75be4c691235aac176836d3238c4501a985f990f23860d33c5736f2de5181fae
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
+
 Package: php7.2-threads
 Version: 7.2.34
 Architecture: arm
@@ -389,6 +403,20 @@ SHA1: 17e51fe28b301544c34f70e7114fe0330f6eeef9
 SHA256: a31ddd98009fc740f0f6dfa40444dadb27d44cfcb248a7d48a060677edbb43a9
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
+
+Package: php7.2-zts-dichvucoder
+Version: 9.0.1-2
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 300
+Depends: libandroid-execinfo, php7.2-zts
+Filename: pool/dvc/php7.2-zts-dichvucoder_9.0.1-2_arm.deb
+Size: 101220
+MD5sum: af3765c546dd83ce7837c324602b276d
+SHA1: 8404ed8070b4d303bfec9d845f186b06260f0da7
+SHA256: b0f752ab1764ea76f5084b9bcc3cdaf67c8908f95399bc48464f324a65c4cce8
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php7.2-zts-threads
 Version: 3.2.0-git-0
