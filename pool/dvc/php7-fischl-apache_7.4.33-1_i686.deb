@@ -1,0 +1,14 @@
+Package: php7-fischl-apache
+Version: 7.4.33-1
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 12340
+Depends: apache2, php7-fischl (= 7.4.33-1)
+Filename: pool/dvc/php7-fischl-apache_7.4.33-1_i686.deb
+Size: 2423408
+MD5sum: af55093bbd0e48b3cbec17e4b8fdda3d
+SHA1: 6f6410fc90af4a9c451baf65f2ec08e308b338c3
+SHA256: 79a528a065d3edb0d2ee465f1377d141a7097e49c30ce81f74dc187c9cf4cb5d
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

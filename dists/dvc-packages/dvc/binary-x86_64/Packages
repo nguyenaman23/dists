@@ -255,6 +255,66 @@ SHA256: ca588d318f2863f484bd2ee722122af7765d0d12babad2d3d8f4053529f24910
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
+Package: php7-fischl-apache
+Version: 7.4.33-1
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 13424
+Depends: apache2, php7-fischl (= 7.4.33-1)
+Filename: pool/dvc/php7-fischl-apache_7.4.33-1_x86_64.deb
+Size: 2504620
+MD5sum: 86e49ad6de6cb3caff5b8109081cc2f1
+SHA1: 59dccee4ebff3e4d364d705cd3cdfcc4f80f0bdf
+SHA256: 7bdc4425e299da320b649dafaa65b693141272bfc105c5cac6a7232fc959bc2e
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
+Package: php7-fischl-fpm
+Version: 7.4.33-1
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 13556
+Depends: php7-fischl (= 7.4.33-1)
+Conflicts: php-fpm
+Filename: pool/dvc/php7-fischl-fpm_7.4.33-1_x86_64.deb
+Size: 2553260
+MD5sum: e7ff685a55f468fc6f6f18dccfdc371e
+SHA1: 4cf296d4d84a0e3f117cb9da8f0c9bfcac89d941
+SHA256: 3e1237ae71d18357a745061dc3258de1fbe1d4bf7f7c4531e05c2b13799038b2
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
+Package: php7-fischl-pgsql
+Version: 7.4.33-1
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 196
+Depends: apr-util, postgresql, php7-fischl (= 7.4.33-1)
+Conflicts: php-pgsql
+Filename: pool/dvc/php7-fischl-pgsql_7.4.33-1_x86_64.deb
+Size: 49104
+MD5sum: d5281c7249442199b1e9d63cad4264bb
+SHA1: 990c1f25da934ecf293a218d0609c745b3da6dd3
+SHA256: 6b4ab351bec3754c6f35945c8b41a5b9a11e8ba743a5d7c3aa935cd75334a550
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
+Package: php7-fischl
+Version: 7.4.33-1
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 46812
+Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Filename: pool/dvc/php7-fischl_7.4.33-1_x86_64.deb
+Size: 8354672
+MD5sum: 391320e9550ec5b7198166af5172d69d
+SHA1: 74e80b304b0dc5d78fa9d11e63dc6de323a4522d
+SHA256: e759cda5930c70e6d2423b6ad16eead176a87ee729076fdf1587638a6320ffa4
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language + EvalHook
+
 Package: php7-fpm
 Version: 7.4.33-2
 Architecture: x86_64

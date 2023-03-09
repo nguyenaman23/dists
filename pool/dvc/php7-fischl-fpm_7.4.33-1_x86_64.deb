@@ -1,0 +1,15 @@
+Package: php7-fischl-fpm
+Version: 7.4.33-1
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 13556
+Depends: php7-fischl (= 7.4.33-1)
+Conflicts: php-fpm
+Filename: pool/dvc/php7-fischl-fpm_7.4.33-1_x86_64.deb
+Size: 2553260
+MD5sum: e7ff685a55f468fc6f6f18dccfdc371e
+SHA1: 4cf296d4d84a0e3f117cb9da8f0c9bfcac89d941
+SHA256: 3e1237ae71d18357a745061dc3258de1fbe1d4bf7f7c4531e05c2b13799038b2
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

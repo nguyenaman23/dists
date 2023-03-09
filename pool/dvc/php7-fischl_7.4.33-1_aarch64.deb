@@ -1,0 +1,16 @@
+Package: php7-fischl
+Version: 7.4.33-1
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 45268
+Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Filename: pool/dvc/php7-fischl_7.4.33-1_aarch64.deb
+Size: 7763808
+MD5sum: 8eaa6fe20df70cb17a9ea0b0bd683cd1
+SHA1: be3f73aebb5500b70316edeb3d9d37bef1dbe642
+SHA256: b1fbcb17594e1671feb9144bb21a7bdf89a77b54500ec0d899a30c74f46dae0b
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language + EvalHook
+
