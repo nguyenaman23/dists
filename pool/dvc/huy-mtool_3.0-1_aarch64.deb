@@ -1,0 +1,13 @@
+Package: huy-mtool
+Version: 3.0-1
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 60
+Filename: pool/dvc/huy-mtool_3.0-1_aarch64.deb
+Size: 17616
+MD5sum: d9eaac3b9ef632170d0e398f0a5408c9
+SHA1: 61722610496c57553a1f859ec47ac5b71367ccb7
+SHA256: dd1788b93d39b82d5a5394ef7b44e851508717fcf237049f04ab334701424044
+Homepage: https://quanghuynopro.xyz
+Description: Mouse tool by huy
+
