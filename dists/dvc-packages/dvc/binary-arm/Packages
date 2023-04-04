@@ -24,6 +24,20 @@ SHA256: a68a5265763183c8857dc3f14ff7bb7c0ee71b0bf6f5dabcb1c60ea249f4fddf
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 
+Package: lib-zend-dvc-8.2
+Version: 9.2.0-1
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 148
+Depends: libandroid-execinfo, php
+Filename: pool/dvc/lib-zend-dvc-8.2_9.2.0-1_arm.deb
+Size: 51844
+MD5sum: c0e7844d921dd2d3611ed8262ebf8ae1
+SHA1: 697d7e45e23b8f3940e18a0492d15149a1677387
+SHA256: e4392e917facecae334b56b0185c8d6353474dd9ec7aa34bb110abdd4f9b3cfb
+Homepage: https://dichvucoder.com
+Description: Lib Zend DVC PHP 8.2 for DVC PHP
+
 Package: php-8.1-apache
 Version: 8.1.6-1
 Architecture: arm

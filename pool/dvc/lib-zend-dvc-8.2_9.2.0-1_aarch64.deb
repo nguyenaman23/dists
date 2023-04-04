@@ -1,0 +1,14 @@
+Package: lib-zend-dvc-8.2
+Version: 9.2.0-1
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 188
+Depends: libandroid-execinfo, php
+Filename: pool/dvc/lib-zend-dvc-8.2_9.2.0-1_aarch64.deb
+Size: 55912
+MD5sum: 59a2657fa693101c27bcfb514cdb824b
+SHA1: d0b7fdddfbe32bf2fd79cf3f40644e901fbf7024
+SHA256: 5cda40dafc84645b37e5556348e1f61b7cc3530e8f34814fe76552e5793e6a79
+Homepage: https://dichvucoder.com
+Description: Lib Zend DVC PHP 8.2 for DVC PHP
+
