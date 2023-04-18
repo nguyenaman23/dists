@@ -1,0 +1,16 @@
+Package: php7
+Version: 7.4.33-3
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 46200
+Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+Conflicts: php, php-mysql, php-dev, php7-crack, php7-zts, php7.2, php7.2-zts, php7.2-threads, php-8.1
+Replaces: php, php-mysql, php-dev, php7-crack, php7-zts, php7.2, php7.2-zts, php7.2-threads, php-8.1
+Filename: pool/dvc/php7_7.4.33-3_x86_64.deb
+Size: 8162380
+MD5sum: 185a7d1109996951907910ef0d15bfd9
+SHA1: 66899621725904641af135e0e896e8496be8a0e2
+SHA256: 418ed43e756f2cdd2e8f133f4cefc80d1e19afd558ef7c1a9dd376199fd3ca13
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+
