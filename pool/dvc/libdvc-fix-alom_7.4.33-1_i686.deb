@@ -1,0 +1,14 @@
+Package: libdvc-fix-alom
+Version: 7.4.33-1
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 48
+Depends: libandroid-execinfo
+Filename: pool/dvc/libdvc-fix-alom_7.4.33-1_i686.deb
+Size: 2184
+MD5sum: bff0c25695e07614a543e7f8707550fb
+SHA1: 8f9c280d9c2a249c01116f51109f2ec01bc47afa
+SHA256: 90cbea8eb8c790a9ade5d79318576134d6c3f7356d35eb939cb145b869bcd1de
+Homepage: https://dichvucoder.com
+Description: Lib PHP-CRACK Fix Alom for DVC PHP
+
