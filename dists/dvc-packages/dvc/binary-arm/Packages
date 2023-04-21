@@ -24,34 +24,6 @@ SHA256: a68a5265763183c8857dc3f14ff7bb7c0ee71b0bf6f5dabcb1c60ea249f4fddf
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 
-Package: lib-zend-dvc-8.2
-Version: 9.2.0-1
-Architecture: arm
-Maintainer: @Dichvucoder
-Installed-Size: 148
-Depends: libandroid-execinfo, php
-Filename: pool/dvc/lib-zend-dvc-8.2_9.2.0-1_arm.deb
-Size: 51844
-MD5sum: c0e7844d921dd2d3611ed8262ebf8ae1
-SHA1: 697d7e45e23b8f3940e18a0492d15149a1677387
-SHA256: e4392e917facecae334b56b0185c8d6353474dd9ec7aa34bb110abdd4f9b3cfb
-Homepage: https://dichvucoder.com
-Description: Lib Zend DVC PHP 8.2 for DVC PHP
-
-Package: libdvc-fix-alom
-Version: 7.4.33-2
-Architecture: arm
-Maintainer: @Dichvucoder
-Installed-Size: 48
-Depends: libandroid-execinfo
-Filename: pool/dvc/libdvc-fix-alom_7.4.33-2_arm.deb
-Size: 2048
-MD5sum: 4c90f290abc29f498e5907d47b62c246
-SHA1: 5a78c4198377874be7d3f4a98cf5278c2d8219ee
-SHA256: d0fac45289dad6a073e2e706906e974c6bf2031ffa2919643fca87f4d25e5f0e
-Homepage: https://dichvucoder.com
-Description: Lib PHP-CRACK Fix Alom for DVC PHP
-
 Package: php-8.1-apache
 Version: 8.1.6-1
 Architecture: arm
