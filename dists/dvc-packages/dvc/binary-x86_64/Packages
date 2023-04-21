@@ -45,10 +45,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 48
 Depends: libandroid-execinfo
 Filename: pool/dvc/libdvc-fix-alom_7.4.33-2_x86_64.deb
-Size: 2112
-MD5sum: b79c0d430de99133a91a95eba413bce3
-SHA1: 61fb80d6f4a955b0e97ef71b4f6897a7b256e437
-SHA256: 0b2a682131ed854f9c2491695ec7930340216b07ee62d9e5f1dcc10c99b37afe
+Size: 2120
+MD5sum: 820e4db39a247cfb9e6d0c1f63540984
+SHA1: 34305b7d7753409e2ad9a78a80f8741dc634d37e
+SHA256: 86a64151945c363f3c56c07cecf4237c0bd05d6fd3bfcaea45ec91ce00719362
 Homepage: https://dichvucoder.com
 Description: Lib PHP-CRACK Fix Alom for DVC PHP
 
@@ -209,64 +209,64 @@ Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php7-crack-apache
-Version: 7.4.33-4
+Version: 7.4.33-5
 Architecture: x86_64
 Maintainer: @Dichvucoder
 Installed-Size: 13244
-Depends: apache2, php7-crack (= 7.4.33-4)
-Filename: pool/dvc/php7-crack-apache_7.4.33-4_x86_64.deb
-Size: 2447796
-MD5sum: 37cad8a0e2a12692fc7a3ddaf154cd8b
-SHA1: 7aeafd52c04ebedb32017344b7a4fdacdebbc5f4
-SHA256: f573a206de1728b35b13988a158d9d67ce117a28deee0aad0fa97615d5bf1f73
+Depends: apache2, php7-crack (= 7.4.33-5)
+Filename: pool/dvc/php7-crack-apache_7.4.33-5_x86_64.deb
+Size: 2449440
+MD5sum: af660834302db4ed5589e3c0e6a7e096
+SHA1: c0ecfeddc150e1252eeecf4c5f21303a03dc772b
+SHA256: 6ede96b084fa028bc37d4fc058fa6aea0c1762571c68939d21a7739409b047b4
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php7-crack-fpm
-Version: 7.4.33-4
+Version: 7.4.33-5
 Architecture: x86_64
 Maintainer: @Dichvucoder
 Installed-Size: 13376
-Depends: php7-crack (= 7.4.33-4)
+Depends: php7-crack (= 7.4.33-5)
 Conflicts: php-fpm
-Filename: pool/dvc/php7-crack-fpm_7.4.33-4_x86_64.deb
-Size: 2501924
-MD5sum: a68100924d1340f85b1f60aafdeb2fbb
-SHA1: c80020721e500a966098e59442ae097412419903
-SHA256: 9e665c4bef64fed4b8691cf5218da9f4b92b4cd80b0be35ef1f6e431efbdd4df
+Filename: pool/dvc/php7-crack-fpm_7.4.33-5_x86_64.deb
+Size: 2504736
+MD5sum: cd4fc97938bc06cc06286bc66f069a88
+SHA1: 9d4ca133a8063f56925a89a2472776b537912f75
+SHA256: 9bdfdd0304fffa762969c4eefd04c965f0811978d568ee37a3ffe83e3a8208ca
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: php7-crack-pgsql
-Version: 7.4.33-4
+Version: 7.4.33-5
 Architecture: x86_64
 Maintainer: @Dichvucoder
 Installed-Size: 192
-Depends: apr-util, postgresql, php7-crack (= 7.4.33-4)
+Depends: apr-util, postgresql, php7-crack (= 7.4.33-5)
 Conflicts: php-pgsql
-Filename: pool/dvc/php7-crack-pgsql_7.4.33-4_x86_64.deb
-Size: 48044
-MD5sum: 8418f8f343d89640d09b8d19417d7c9e
-SHA1: 77814c3e5da5f9f09b5b6e6734948f0eb107f4d2
-SHA256: 23d3a2ed2293ecd497706ea06b86af27dae680dc1efba9f39ac48a6df97fc6f3
+Filename: pool/dvc/php7-crack-pgsql_7.4.33-5_x86_64.deb
+Size: 48132
+MD5sum: 7e280d0f45416ad93e2c82b131384e49
+SHA1: efb03f779d8720b9acee0cab9ac4f526caba3778
+SHA256: e4c57a2318617ec0566a4453156ccc3012ce6be6bcbd9db139618dc3f65ada9c
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: php7-crack
-Version: 7.4.33-4
+Version: 7.4.33-5
 Architecture: x86_64
 Maintainer: @Dichvucoder
-Installed-Size: 46232
+Installed-Size: 46236
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
 Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
 Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
-Filename: pool/dvc/php7-crack_7.4.33-4_x86_64.deb
-Size: 8165604
-MD5sum: 1dbaf5fede173ca3a8d468ac97e6fbc5
-SHA1: 379704ae84672f8c5a274654d8c579b88d3db598
-SHA256: 735864b8b4b7628242dc9da2150ce6564ee009618d39cb3a87e3c38b93216bbd
+Filename: pool/dvc/php7-crack_7.4.33-5_x86_64.deb
+Size: 8164152
+MD5sum: 9b7402f2e25f8109fa3fbee4ab2efdd4
+SHA1: 01f7eba638b49209dedf0a7b10f148d1856cb3fa
+SHA256: 08d9f95354c59b41e448a739f0a82314eabce9ff1c8f97f94e7bdef5d291a205
 Homepage: https://php.net
-Description: Server-side, HTML-embedded scripting language + EvalHook
+Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
 Package: php7-dgbaopro
 Version: 8.5.1-1

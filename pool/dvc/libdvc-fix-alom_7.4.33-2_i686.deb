@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 48
 Depends: libandroid-execinfo
 Filename: pool/dvc/libdvc-fix-alom_7.4.33-2_i686.deb
-Size: 2188
-MD5sum: 7214d8052e6ade51572f3b1c5c5ac245
-SHA1: fd178534ad39d62534aaec2ca6a4a94e0cd67d37
-SHA256: d8ff1e686afe92189fb11a7621e03c6b2c16be82ef10fa71f9e9458ec89dfdca
+Size: 2192
+MD5sum: 86977cf4b8b041be145dcb1205266dc2
+SHA1: e25bb4120efeba43f64736ec4b9f2aef49bb036d
+SHA256: 66004d1192e3b3e2d856fbfc6ba4184cd69c9e219fe19e83ad0b6ce6f4ce10ce
 Homepage: https://dichvucoder.com
 Description: Lib PHP-CRACK Fix Alom for DVC PHP
 
