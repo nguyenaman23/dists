@@ -1,0 +1,16 @@
+Package: muti-php8.2-fpm
+Version: 8.2.5
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 15280
+Depends: muti-php8.2 (= 8.2.5)
+Breaks: php (<< 8.1.12)
+Replaces: php (<< 8.1.12)
+Filename: pool/dvc/muti-php8.2-fpm_8.2.5_x86_64.deb
+Size: 2786428
+MD5sum: f465f0cedd8056aa540e954c4d232639
+SHA1: 072af8e930c042a0b5f030602b4379edbacbd07a
+SHA256: 8577973df3a263e78c2daa2388bba2b4ed575ced40c2750cc2974c52817cb924
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

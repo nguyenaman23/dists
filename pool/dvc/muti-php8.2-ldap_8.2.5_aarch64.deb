@@ -1,0 +1,14 @@
+Package: muti-php8.2-ldap
+Version: 8.2.5
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: openldap, muti-php8.2 (= 8.2.5)
+Filename: pool/dvc/muti-php8.2-ldap_8.2.5_aarch64.deb
+Size: 792
+MD5sum: 888650097b0809228d88f71673d81a1b
+SHA1: 7a3856f5da17a0e2ddcfefab4a4c8217b0bb24ee
+SHA256: 0f734259ccefbe82f1f4f2435d57acdf31de24c6cf2b33486b1b260f94ebd745
+Homepage: https://php.net
+Description: LDAP module for PHP
+
