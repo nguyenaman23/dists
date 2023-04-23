@@ -1,0 +1,14 @@
+Package: muti-php8.2
+Version: 8.2.5-3
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 57020
+Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
+Filename: pool/dvc/muti-php8.2_8.2.5-3_x86_64.deb
+Size: 9849520
+MD5sum: 5937adee01e3d8d782d81bc8bee95aea
+SHA1: 7c82d0889929ba9c7f04ac148229d72cb6eafe61
+SHA256: 2f3c1e1c16a7e5565ce2c4041c09fa5d9ab822f7de55527ec8cd2ddf69333a64
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+
