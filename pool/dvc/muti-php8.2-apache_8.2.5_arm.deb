@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 12396
 Depends: apache2, apr-util, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache_8.2.5_arm.deb
-Size: 2392332
-MD5sum: 6e82e742a62ccabc08869d67ccb44082
-SHA1: 3e9b5c8e9a20ed4c0209a7de7a1610f035e3d9a8
-SHA256: 9ed2989756b35365101579a56027a4f5ac0f0833cc57bd4750d0ad0dca296583
+Size: 2393080
+MD5sum: bb2eb7cc681562179d62112f3d6f3625
+SHA1: e2f1e193a5599fbc50a2a6245edb220a77c609f4
+SHA256: cc58143de0668680afbfd6d928132fc71aaabec7ba4bd0d57eb1ed29d7df6818
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 

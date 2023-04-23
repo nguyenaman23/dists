@@ -1,14 +1,14 @@
 Package: muti-php7.4
-Version: 7.4.33-1
+Version: 7.4.33-2
 Architecture: aarch64
 Maintainer: @Dichvucoder
-Installed-Size: 49092
+Installed-Size: 49096
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
-Filename: pool/dvc/muti-php7.4_7.4.33-1_aarch64.deb
-Size: 8300940
-MD5sum: 2796980a3e9b714866291b01f2a47b8f
-SHA1: 3c4f2c4941515254af2455bfce98c98a5d70fe8f
-SHA256: 17c8c99725361f7465d6d1eb4827f2535e568751633a23d0c9ba6ed95d99e641
+Filename: pool/dvc/muti-php7.4_7.4.33-2_aarch64.deb
+Size: 8295956
+MD5sum: a8a1509a829509ecca014aa9e0cd4184
+SHA1: 3e297534b360e910901dbef0f2f291b0dc3b9067
+SHA256: e27c799663e28e8f10a9cb3ff9ab62216617b2d36737f936245d260d6035762d
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
