@@ -125,16 +125,16 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
 Package: muti-php7.4-dichvucoder
-Version: 9.0.1-2
+Version: 9.0.1-3
 Architecture: aarch64
 Maintainer: @Dichvucoder
-Installed-Size: 500
+Installed-Size: 460
 Depends: libandroid-execinfo, muti-php7.4
-Filename: pool/dvc/muti-php7.4-dichvucoder_9.0.1-2_aarch64.deb
-Size: 127816
-MD5sum: b745dcbc63edb543412b6500b46dae8a
-SHA1: 65472c8fb5471a7786ecfe65adf99416435fa1a3
-SHA256: cd98a9c1595865fa173171735ce9b15b1334e322094f7ae013fcacc4f362aa08
+Filename: pool/dvc/muti-php7.4-dichvucoder_9.0.1-3_aarch64.deb
+Size: 127536
+MD5sum: 80d5cf21f549e62b8f3ac5936a434255
+SHA1: 6de8e67e38870823372c3eb715bb457c091d2bae
+SHA256: df8fac3abab53d342419341c7f935937f0ef1a181c0748af0a7cd1d25089a833
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
