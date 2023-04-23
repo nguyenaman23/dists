@@ -6,9 +6,9 @@ Installed-Size: 24
 Depends: openldap, php-apache, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache-ldap_8.2.5_i686.deb
 Size: 800
-MD5sum: bffb2908d78100782884737f994f8862
-SHA1: b5b76612179ee9d98848b07b46168ba2a6e2b7d2
-SHA256: ff81cdce62f1ed804822de7eddc50d6a6e40b65b2ac176ecf50a9f02b574c0c6
+MD5sum: 0cc47a2925459ca14eff8d2ab816ef22
+SHA1: a1f665c622cbbf3ed79d88aa21bec5edede92abf
+SHA256: 6468a094fd1587dec35cec210a8a40635e00684fc706d9d3a197f43d4bfc8919
 Homepage: https://php.net
 Description: LDAP module for PHP/Apache
 

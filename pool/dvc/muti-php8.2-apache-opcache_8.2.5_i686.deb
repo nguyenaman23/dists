@@ -6,9 +6,9 @@ Installed-Size: 24
 Depends: php-apache, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache-opcache_8.2.5_i686.deb
 Size: 796
-MD5sum: bcc6d90f440b136df53d559bcc4d476f
-SHA1: 8246d2861c953a0243cfffe227f7f3853945c146
-SHA256: 176d8bdee08b2dd8ff298e365c2b9d8223efe709a9cb81638b9855d8cb3cb91b
+MD5sum: 60f19090d058a830e9d72f5f800722e8
+SHA1: fc8f939a78898de38cd2b084269005bf66739e23
+SHA256: 2c62b74b3e7533df7bd85289ce3666a505587f7ad7b6a4cb87e86fdc12b6bc76
 Homepage: https://php.net
 Description: OPcache module for PHP/Apache
 

@@ -7,10 +7,10 @@ Depends: muti-php8.2 (= 8.2.5)
 Breaks: php (<< 8.1.12)
 Replaces: php (<< 8.1.12)
 Filename: pool/dvc/muti-php8.2-fpm_8.2.5_i686.deb
-Size: 2704012
-MD5sum: c3c0de7e7a951289b327a1ef11d02182
-SHA1: ecb8c5b68998eb3f64752777bdb7793f4f0267d7
-SHA256: ed4dbb98df835cae6058f5af959c1fb7c656acf9cb6f4b6a6592b0c29457dafb
+Size: 2703860
+MD5sum: 0776ce7144989bbf82f66b015225a11f
+SHA1: 575488856ae96304954918920c48e87983064f31
+SHA256: 2ecb1681d9626f2b0006b0c6e4ddfe8327e57b726a4dcf0da2d5828fd1a83294
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
