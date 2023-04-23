@@ -1,0 +1,14 @@
+Package: muti-php8.2-sodium
+Version: 8.2.5-2
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: libsodium, muti-php8.2 (= 8.2.5-2)
+Filename: pool/dvc/muti-php8.2-sodium_8.2.5-2_arm.deb
+Size: 792
+MD5sum: 1a756d24ba0befb96f8d51a08eb6bd11
+SHA1: 9963f05069bcb618c2a9fbd966fdd27b48629f4b
+SHA256: 662798c1d8a739e96633e59b5a8e98da589fdcf20dd4e1b4a0ed8a0d171936e5
+Homepage: https://php.net
+Description: Sodium module for PHP
+

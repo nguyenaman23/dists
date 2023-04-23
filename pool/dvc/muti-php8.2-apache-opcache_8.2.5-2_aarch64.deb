@@ -1,0 +1,14 @@
+Package: muti-php8.2-apache-opcache
+Version: 8.2.5-2
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: php-apache, muti-php8.2 (= 8.2.5-2)
+Filename: pool/dvc/muti-php8.2-apache-opcache_8.2.5-2_aarch64.deb
+Size: 804
+MD5sum: 81c8adf3695c46b5fb6cbf265fbc4dc2
+SHA1: 5a00c4f2a89c0249fa2c763f320e9545c429855e
+SHA256: 2e606aabdbbee8c015d95407c9103460dae505e2885cb15b1f3091f20ce0a2bb
+Homepage: https://php.net
+Description: OPcache module for PHP/Apache
+
