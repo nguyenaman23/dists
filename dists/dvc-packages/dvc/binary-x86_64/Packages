@@ -168,6 +168,90 @@ SHA256: bcde81a1779bd98f8dcf8108feff153775ebb1f67f20540c26c0e224175f9da3
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
+Package: muti-php8.1-apache
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 14892
+Depends: apache2, muti-php8.1 (= 8.1.6-2)
+Filename: pool/dvc/muti-php8.1-apache_8.1.6-2_x86_64.deb
+Size: 2651568
+MD5sum: a8a48ee7f5d659cb8a394f66bfed9f56
+SHA1: 99648c6e20b5be3bc71f9c032c4f38636036586a
+SHA256: 103deaa66eae14ef6e5e8353a2ca9bef01598bbf71c60bd75f0e686f3849266b
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
+Package: muti-php8.1-fpm
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 14940
+Depends: muti-php8.1 (= 8.1.6-2)
+Filename: pool/dvc/muti-php8.1-fpm_8.1.6-2_x86_64.deb
+Size: 2700780
+MD5sum: 2ecbe6ac82ea0997b5a21a6ddc6c1edf
+SHA1: e72439c0d8eb8162fd3c93b984eaa945c0a60320
+SHA256: 42bf5607767037b589caf16d792f3d319d73528d62befee7658ab57399ef7997
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
+Package: muti-php8.1-ldap
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: openldap, muti-php8.1 (= 8.1.6-2)
+Filename: pool/dvc/muti-php8.1-ldap_8.1.6-2_x86_64.deb
+Size: 796
+MD5sum: 3ead2d65204bf544bb4bd21e50c4c119
+SHA1: b1f5bc1877fa74b9c38b251dd6ba1e488ac91dfe
+SHA256: ece2e646b9ed0f93f9576d9ff591bf111dd06ad7077261db65ba06fda3a28006
+Homepage: https://php.net
+Description: LDAP module for PHP
+
+Package: muti-php8.1-pgsql
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: apr-util, postgresql, muti-php8.1 (= 8.1.6-2)
+Filename: pool/dvc/muti-php8.1-pgsql_8.1.6-2_x86_64.deb
+Size: 808
+MD5sum: 74594d2f0887373dc9c177bcf2e64b4f
+SHA1: 5fa6d8dbee5f2317e2df1f9e3925fdea8b7411b6
+SHA256: 290b944efa82f5b9cfbe3f82ee12ecec4f50513f53abe4773fe6a6a0a52eae60
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
+Package: muti-php8.1-sodium
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: libsodium, muti-php8.1 (= 8.1.6-2)
+Filename: pool/dvc/muti-php8.1-sodium_8.1.6-2_x86_64.deb
+Size: 796
+MD5sum: b9526fae1b00686ad504f36984f2be3a
+SHA1: 6dd651d9c0542b750dde21e5199b0e3197bce981
+SHA256: d38cd51f4e2d6a3a93d8da97a7e2fec54db8a0182e043fe4b513868b7ebedd24
+Homepage: https://php.net
+Description: Sodium module for PHP
+
+Package: muti-php8.1
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 55736
+Depends: freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, zlib, libicu, libffi, tidy, zstd
+Filename: pool/dvc/muti-php8.1_8.1.6-2_x86_64.deb
+Size: 9563020
+MD5sum: 5586e8ca5782287089c30f159a07e377
+SHA1: e677f12928f4380db78240bb345d355161d04c54
+SHA256: e74da8539b57dc487e82b16f4a5ee7b03bfedcb6636b4dbaa462ff1cda0e965b
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+
 Package: muti-php8.2-apache-ldap
 Version: 8.2.5
 Architecture: x86_64
@@ -175,10 +259,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: openldap, php-apache, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache-ldap_8.2.5_x86_64.deb
-Size: 804
-MD5sum: 83a42b2598d8e9ac09701039d31bf4b1
-SHA1: 263c530971be7730a1cb71f7daa44957512abb97
-SHA256: d76a2abe82739cc7eea55d31b74f7342cf9168c8a11f929e2ce4895c1746148f
+Size: 808
+MD5sum: 97cac5c891d9efd8fba990fd0b92ad5b
+SHA1: 543ba918f04a442e0c46cafda991585a91554717
+SHA256: 98e22944843f3ff4344e942155a1b137c6f776400308f8965cb15f1e57acbb6b
 Homepage: https://php.net
 Description: LDAP module for PHP/Apache
 
@@ -189,10 +273,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: php-apache, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache-opcache_8.2.5_x86_64.deb
-Size: 800
-MD5sum: 624257869cf445b7eb3a753955874438
-SHA1: 073c271cbbe76313889b56d0e098683623b456ca
-SHA256: ab42d8a2aa7b3c0d677b8fb80c5d37788a8e0cb0c8f653276e7dcd7be6c9d6f8
+Size: 804
+MD5sum: 21559723ab7eea62b3b8d48773a6c228
+SHA1: c24016804d82d3065bc9ece6538c4f803a8cb8bc
+SHA256: 71bfb677c593f7cb9c660ac75d315fe43a27f5109a5922899ab6d05e64869a71
 Homepage: https://php.net
 Description: OPcache module for PHP/Apache
 
@@ -203,10 +287,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: php-apache, postgresql, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache-pgsql_8.2.5_x86_64.deb
-Size: 812
-MD5sum: c3d3e23e871550a68936cad14462bca4
-SHA1: 8b9c9ba62c1ef24683b65ba48b96c24e1813cc2b
-SHA256: 62662dc054e2f23ad4620a5ebef5eec78072a1938aebba75337bab016979b92b
+Size: 816
+MD5sum: 270d23f72c9e070e9054dc0a9cbb3c9e
+SHA1: 56ff10c055d9eccba0e0fea35baade7627eb4c8b
+SHA256: 3351e985ef8b853e052b3809f433d89b01b14781f4762f7cf5115949d042fb07
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP/Apache
 
@@ -217,10 +301,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: libsodium, php-apache, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache-sodium_8.2.5_x86_64.deb
-Size: 804
-MD5sum: 1ce9240f35bae09116c4d0a32b7eaa3a
-SHA1: 45ea8559917239106c0422e0dda243b3ba59bea7
-SHA256: 17770e7223a93cb414e424f9004aa4cc3065e4deeb1bede11c43ae76805025a1
+Size: 808
+MD5sum: 1a5a786edf91d3cc16add5f873e49668
+SHA1: d9c0481c79ecccdf47404513b82a70cd9335268d
+SHA256: e5bebcb2e08f817e7cf0dffc7edd48911bc226701b60f9e48eeeb69466e79944
 Homepage: https://php.net
 Description: Sodium module for PHP/Apache
 
@@ -231,10 +315,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 15232
 Depends: apache2, apr-util, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-apache_8.2.5_x86_64.deb
-Size: 2737988
-MD5sum: a4712e1d6da77f139e31ff7b68fa2000
-SHA1: fc3b2b9b301cebe3c352c766e2abbc0c6cae4422
-SHA256: f7f97f6e470241f99fd4f9eb065d9bdb4c133ac5877cd0c1e1ef9cdd283e0814
+Size: 2736196
+MD5sum: 2fee5efbb6a049b737a65c5e5935909d
+SHA1: d34b432a78beea69e8b3cd7b2404a89e2f6d6821
+SHA256: c33a5ad22af343dff0384e01e883b081fe9aed501d61eafebc13a2d1d17670b2
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
@@ -247,10 +331,10 @@ Depends: muti-php8.2 (= 8.2.5)
 Breaks: php (<< 8.1.12)
 Replaces: php (<< 8.1.12)
 Filename: pool/dvc/muti-php8.2-fpm_8.2.5_x86_64.deb
-Size: 2786428
-MD5sum: f465f0cedd8056aa540e954c4d232639
-SHA1: 072af8e930c042a0b5f030602b4379edbacbd07a
-SHA256: 8577973df3a263e78c2daa2388bba2b4ed575ced40c2750cc2974c52817cb924
+Size: 2789092
+MD5sum: b6931bc127e874ac30098ad6a4faa291
+SHA1: 5d75294c3d7e3aa0505b99ae3bf35993397d27d4
+SHA256: 33f0afe616a6e65094d4b45aedf15219f3ccbb89a9391897158a70cdaf977bdf
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
@@ -261,10 +345,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: openldap, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-ldap_8.2.5_x86_64.deb
-Size: 788
-MD5sum: 4bdeefe7207e2b39677c3c835af4fe6d
-SHA1: 8bb25429735d8783b304677e756d878950701622
-SHA256: 8fd66aadc287b90f62163a78dbd08b4fd17ab808ec8193da40bc6b26a6f6706f
+Size: 792
+MD5sum: 61ccf7f03515ceab477763709221af20
+SHA1: 3ca1e31c9a5c6e0c7db4daeb1117c12d51846113
+SHA256: 975ec0388c75d08bd1b1080d1a24ac1d5a4b8b5e365ef4e9447c70296dec5662
 Homepage: https://php.net
 Description: LDAP module for PHP
 
@@ -275,10 +359,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: postgresql, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-pgsql_8.2.5_x86_64.deb
-Size: 792
-MD5sum: 14c445095bca72c0b2b9be70b4ef98dd
-SHA1: e5b3acd4f33d626399d016229d3ebdc95dcfbe28
-SHA256: 663543688483acdc5b4bf639d9c01b90cc79e36ff26c105979dbf4ea4d1d728c
+Size: 796
+MD5sum: 715c4f4e0d7be21a964018061ea0e473
+SHA1: 78bd087ace3399829b773aeaa5ca1a6ad960a028
+SHA256: 667407690f3c6738682778dc97ee3f7e73dc8337423160645c36d36a39195ffd
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
@@ -289,10 +373,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: libsodium, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-sodium_8.2.5_x86_64.deb
-Size: 788
-MD5sum: 986eb18d384d184d560a7c6d385e684e
-SHA1: 2ce43f115dcfb798f7b151d71b925cc79d6faed2
-SHA256: 0ffad4474c72511eea85923b9849608d2d4dcc5d4fed6d2b87165ffa25c132de
+Size: 792
+MD5sum: 2a8e29e07625db5874c6e51588fa73b3
+SHA1: 8c51991b87f19ab5bcdafdf36df5a595bdc5bc10
+SHA256: df9ba314b1bd874e28055b916e937f63cc4e6968312dc6f549739f1c412d4f62
 Homepage: https://php.net
 Description: Sodium module for PHP
 
@@ -300,13 +384,13 @@ Package: muti-php8.2
 Version: 8.2.5
 Architecture: x86_64
 Maintainer: @Dichvucoder
-Installed-Size: 57016
+Installed-Size: 57020
 Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
 Filename: pool/dvc/muti-php8.2_8.2.5_x86_64.deb
-Size: 9859564
-MD5sum: cd0820b270d9bde69fbdf048f5d625bd
-SHA1: e2f05dd3ddf93d597f1ad9a2c361b3f18d92072b
-SHA256: b5dee3d18f3638be031ad429544f7ac750d1f72cbb47dc8a421f265279b1d4b4
+Size: 9853968
+MD5sum: b2a8d74badaf17ad46867f9bcc4cceea
+SHA1: 05100880e1eddbc1a32a79ab7c9daad5ea4b25ea
+SHA256: 78673e7a30e8628fe1fde2e2d0d24f26c33746ecf14bf81dc9193cce929bb501
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 

@@ -6,9 +6,9 @@ Installed-Size: 24
 Depends: postgresql, muti-php8.2 (= 8.2.5)
 Filename: pool/dvc/muti-php8.2-pgsql_8.2.5_aarch64.deb
 Size: 796
-MD5sum: 8949e01183e8bdfab626b71cfd287ba4
-SHA1: 6bdf3f093b068b59ef2bd64d5da21999ad6af5e5
-SHA256: 80524295484351f932f1316995b1bbe12324ec49e639f4f3b577b24c1e083fb4
+MD5sum: 99ef22516893c69af04fcc6ee47aa931
+SHA1: 32ae99025e597f457406ac524cee979931e3c7b6
+SHA256: 04022a710b408c8b154eb8835c8593a5ab9dbaea6852f48ac27181ff1fc833f7
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
