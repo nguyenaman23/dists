@@ -124,6 +124,20 @@ SHA256: b44fd823492f51c0462f872d9c016c480499cfebb7acd919a7247db68327ac25
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
+Package: muti-php7.4-dichvucoder
+Version: 9.0.1-2
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 468
+Depends: libandroid-execinfo, muti-php7.4
+Filename: pool/dvc/muti-php7.4-dichvucoder_9.0.1-2_i686.deb
+Size: 123480
+MD5sum: 43e9172a17b23295c59ce2f5a3dfc3d0
+SHA1: 835ace7354aa9a7e8c041993cab3cd199199d1d0
+SHA256: 9feba8c203ddc494cf6404df215cbe78a91812fc115f9c6fa1017e3e1e6cfd99
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
+
 Package: muti-php7.4-fpm
 Version: 7.4.33-2
 Architecture: i686
@@ -321,6 +335,20 @@ SHA1: e33faa4e5a04e3b4f5f3e927450f2d4cc757b31a
 SHA256: 3b85d70d1e0ad982110e4f25158126b080c679a2865dd7db6dbe419d44f412f3
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
+
+Package: muti-php8.2-dichvucoder
+Version: 9.0.1-1
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 520
+Depends: libandroid-execinfo, muti-php8.2
+Filename: pool/dvc/muti-php8.2-dichvucoder_9.0.1-1_i686.deb
+Size: 143088
+MD5sum: f00c08b784a66ce695732f2fa78bc04b
+SHA1: d4619e91389a108a4cde6e07e9dcbea925d0dbbb
+SHA256: bc443c56d129840c0f0fdcfeac00ababb364613197d0d5f6d86de4ea187e869e
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: muti-php8.2-fpm
 Version: 8.2.5-2
